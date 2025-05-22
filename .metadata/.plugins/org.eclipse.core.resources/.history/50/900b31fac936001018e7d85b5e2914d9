@@ -1,0 +1,10 @@
+spring.application.name=CRUD_Example
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.url=jdbc:mysql://localhost:3306/tcl
+spring.datasource.username=root
+spring.datasource.password=hanubhagya@123
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+
+spring.port = 8081
